@@ -1,0 +1,12 @@
+com\bao\config\bookInterceptor.class
+com\bao\dao\BookMapper.class
+com\bao\dao\UserMapper.class
+com\bao\service\UserServiceImpl.class
+com\bao\pojo\Books.class
+com\bao\pojo\User.class
+com\bao\service\BookServiceImpl.class
+com\bao\service\UserService.class
+com\bao\config\LoginInterceptor.class
+com\bao\controller\BookController.class
+com\bao\controller\UserController.class
+com\bao\service\BookService.class
